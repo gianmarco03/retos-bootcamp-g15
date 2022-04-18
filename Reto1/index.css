@@ -30,6 +30,13 @@
   border-radius: 1rem;
 }
 
+.article__list{
+  display:inline;
+  margin: 0;
+  padding: 0;
+  text-align:left;
+}
+
 .header {
   display: flex;
 }
